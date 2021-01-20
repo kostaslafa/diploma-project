@@ -61,8 +61,10 @@ possible.
 
 ## Classes
 class App: creates the starting menu
+
 class Player: creates a player where the final video it is played in real time. 
 (By real time I mean that the program processes and plays the video frame by frame)
+
 class MyVideoCapture: This class is responsible for getting every frame of the video, 
 calling the right functions and returning the processed frame back to the player.
 
