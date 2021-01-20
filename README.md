@@ -73,5 +73,4 @@ Additional information regarding the diploma thesis (regulations, copyrights etc
 that I graduated from, can be seen here: https://www.ee.duth.gr/en/studies/undergraduate/diploma-thesis/
 
 ## Contact
-Created by [@kostaslafa]
-email: kostaslafa14@gmail.com
+Created by [@kostaslafa], email: kostaslafa14@gmail.com - feel free to contact me!
